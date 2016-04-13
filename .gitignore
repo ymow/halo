@@ -1,0 +1,16 @@
+*.iml
+*.apk
+.gradle
+/build
+/captures
+/local.properties
+
+# Intellij IDEA
+/.idea
+
+# Windows
+Thumbs.db
+
+# OS X
+.DS_Store
+
